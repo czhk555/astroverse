@@ -40,7 +40,7 @@ importers:
         version: 1.8.5(astro@5.18.1(@types/node@25.4.0)(jiti@1.21.7)(rollup@4.59.0)(typescript@5.9.3)(yaml@2.8.2))
       dayjs:
         specifier: ^1.11.11
-        version: 1.11.19
+        version: 1.11.20
       pagefind:
         specifier: ^1.1.0
         version: 1.4.0
@@ -1271,8 +1271,8 @@ packages:
     resolution: {integrity: sha512-0LrrStPOdJj+SPCCrGhzryycLjwcgUSHBtxNA8aIDxf0GLsRh1cKYhB00Gd1lDOS4yGH69+SNn13+TWbVHETFQ==}
     engines: {node: ^10 || ^12.20.0 || ^14.13.0 || >=15.0.0, npm: '>=7.0.0'}
 
-  dayjs@1.11.19:
-    resolution: {integrity: sha512-t5EcLVS6QPBNqM2z8fakk/NKel+Xzshgt8FFKAn+qwlD1pzZWxh0nVCrvFK7ZDb6XucZeF9z8C7CBWTRIVApAw==}
+  dayjs@1.11.20:
+    resolution: {integrity: sha512-YbwwqR/uYpeoP4pu043q+LTDLFBLApUP6VxRihdfNTqu4ubqMlGDLd6ErXhEgsyvY0K6nCs7nggYumAN+9uEuQ==}
 
   debug@4.4.0:
     resolution: {integrity: sha512-6WTZ/IxCY/T6BALoZHaE4ctp9xm+Z5kY/pzYaCHRFeyVhojxlrm+46y68HA6hr0TcwEssoxNiDEUJQjfPZ/RYA==}
@@ -4083,7 +4083,7 @@ snapshots:
     dependencies:
       css-tree: 2.2.1
 
-  dayjs@1.11.19: {}
+  dayjs@1.11.20: {}
 
   debug@4.4.0:
     dependencies:
